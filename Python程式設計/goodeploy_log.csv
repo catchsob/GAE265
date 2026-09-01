@@ -1,0 +1,700 @@
+,timestamp,textPayload
+0,2024-03-23T03:40:44.784794Z,"Default STARTUP TCP probe succeeded after 1 attempt for container ""goodeploy-1"" on port 8080."
+1,2024-03-23T03:40:44.783588Z,[2024-03-23 11:40:44 +0800] [4] [INFO] Booting worker with pid: 4
+2,2024-03-23T03:40:44.764772Z,[2024-03-23 11:40:44 +0800] [2] [INFO] Using worker: gthread
+3,2024-03-23T03:40:44.764717Z,[2024-03-23 11:40:44 +0800] [2] [INFO] Listening at: http://0.0.0.0:8080 (2)
+4,2024-03-23T03:40:44.763684Z,[2024-03-23 11:40:44 +0800] [2] [INFO] Starting gunicorn 21.2.0
+5,2024-03-23T03:40:43.828587Z,
+6,2024-03-23T01:48:19.005223Z,"Default STARTUP TCP probe succeeded after 1 attempt for container ""goodeploy-1"" on port 8080."
+7,2024-03-23T01:48:19.002083Z,[2024-03-23 09:48:18 +0800] [4] [INFO] Booting worker with pid: 4
+8,2024-03-23T01:48:18.985151Z,[2024-03-23 09:48:18 +0800] [2] [INFO] Using worker: gthread
+9,2024-03-23T01:48:18.985069Z,[2024-03-23 09:48:18 +0800] [2] [INFO] Listening at: http://0.0.0.0:8080 (2)
+10,2024-03-23T01:48:18.983705Z,[2024-03-23 09:48:18 +0800] [2] [INFO] Starting gunicorn 21.2.0
+11,2024-03-23T01:48:17.474465Z,
+12,2024-03-22T16:48:32.993457Z,[2024-03-23 00:48:32 +0800] [4] [INFO] Booting worker with pid: 4
+13,2024-03-22T16:48:32.981738Z,"Default STARTUP TCP probe succeeded after 1 attempt for container ""goodeploy-1"" on port 8080."
+14,2024-03-22T16:48:32.976741Z,[2024-03-23 00:48:32 +0800] [2] [INFO] Using worker: gthread
+15,2024-03-22T16:48:32.961757Z,[2024-03-23 00:48:32 +0800] [2] [INFO] Listening at: http://0.0.0.0:8080 (2)
+16,2024-03-22T16:48:32.960207Z,[2024-03-23 00:48:32 +0800] [2] [INFO] Starting gunicorn 21.2.0
+17,2024-03-22T16:48:31.998078Z,
+18,2024-03-22T15:42:49.772027Z,
+19,2024-03-22T15:42:37.830580Z,
+20,2024-03-22T15:42:33.591105Z,
+21,2024-03-22T15:42:31.260838Z,
+22,2024-03-22T15:42:29.256404Z,
+23,2024-03-22T15:42:24.869019Z,
+24,2024-03-22T15:42:16.374199Z,
+25,2024-03-22T15:42:15.019590Z,
+26,2024-03-22T15:42:13.458764Z,
+27,2024-03-22T15:42:10.918163Z,"Default STARTUP TCP probe succeeded after 1 attempt for container ""goodeploy-1"" on port 8080."
+28,2024-03-22T15:42:10.900430Z,[2024-03-22 23:42:10 +0800] [4] [INFO] Booting worker with pid: 4
+29,2024-03-22T15:42:10.885872Z,[2024-03-22 23:42:10 +0800] [2] [INFO] Using worker: gthread
+30,2024-03-22T15:42:10.885638Z,[2024-03-22 23:42:10 +0800] [2] [INFO] Listening at: http://0.0.0.0:8080 (2)
+31,2024-03-22T15:42:10.876535Z,[2024-03-22 23:42:10 +0800] [2] [INFO] Starting gunicorn 21.2.0
+32,2024-03-22T15:42:09.562862Z,
+33,2024-03-22T15:20:37.100215Z,
+34,2024-03-22T15:20:24.946554Z,
+35,2024-03-22T15:20:21.435004Z,
+36,2024-03-22T15:20:16.095056Z,
+37,2024-03-22T15:20:14.687431Z,
+38,2024-03-22T15:20:11.042841Z,
+39,2024-03-22T15:20:02.438202Z,
+40,2024-03-22T15:15:40.020461Z,
+41,2024-03-22T15:15:15.852248Z,
+42,2024-03-22T15:14:52.207045Z,
+43,2024-03-22T15:14:41.791494Z,
+44,2024-03-22T15:14:33.378781Z,
+45,2024-03-22T15:13:59.694848Z,
+46,2024-03-22T15:13:52.865055Z,
+47,2024-03-22T15:13:48.783693Z,
+48,2024-03-22T15:13:44.327712Z,
+49,2024-03-22T15:13:41.633252Z,
+50,2024-03-22T15:13:34.043592Z,"Default STARTUP TCP probe succeeded after 1 attempt for container ""goodeploy-1"" on port 8080."
+51,2024-03-22T15:13:34.021287Z,[2024-03-22 23:13:34 +0800] [4] [INFO] Booting worker with pid: 4
+52,2024-03-22T15:13:34.003558Z,[2024-03-22 23:13:34 +0800] [2] [INFO] Using worker: gthread
+53,2024-03-22T15:13:34.003542Z,[2024-03-22 23:13:34 +0800] [2] [INFO] Listening at: http://0.0.0.0:8080 (2)
+54,2024-03-22T15:13:34.002Z,[2024-03-22 23:13:34 +0800] [2] [INFO] Starting gunicorn 21.2.0
+55,2024-03-22T15:13:32.752892Z,
+56,2024-03-22T12:05:56.685321Z,
+57,2024-03-22T12:05:56.211374Z,
+58,2024-03-22T12:05:51.860805Z,
+59,2024-03-22T12:05:49.652151Z,
+60,2024-03-22T12:05:47.711261Z,"Default STARTUP TCP probe succeeded after 1 attempt for container ""goodeploy-1"" on port 8080."
+61,2024-03-22T12:05:47.689361Z,[2024-03-22 20:05:47 +0800] [4] [INFO] Booting worker with pid: 4
+62,2024-03-22T12:05:47.671296Z,[2024-03-22 20:05:47 +0800] [2] [INFO] Using worker: gthread
+63,2024-03-22T12:05:47.671249Z,[2024-03-22 20:05:47 +0800] [2] [INFO] Listening at: http://0.0.0.0:8080 (2)
+64,2024-03-22T12:05:47.669580Z,[2024-03-22 20:05:47 +0800] [2] [INFO] Starting gunicorn 21.2.0
+65,2024-03-22T12:05:46.661308Z,
+66,2024-03-22T10:29:58.610862Z,
+67,2024-03-22T10:29:55.608979Z,
+68,2024-03-22T10:29:53.225178Z,
+69,2024-03-22T10:24:32.018954Z,
+70,2024-03-22T10:24:29.076513Z,
+71,2024-03-22T10:24:14.131157Z,
+72,2024-03-22T10:24:09.315782Z,
+73,2024-03-22T10:24:06.956584Z,
+74,2024-03-22T10:22:29.169919Z,
+75,2024-03-22T10:22:25.989052Z,
+76,2024-03-22T10:22:21.911456Z,
+77,2024-03-22T10:22:16.638478Z,
+78,2024-03-22T10:21:45.283182Z,
+79,2024-03-22T10:21:44.685020Z,"Default STARTUP TCP probe succeeded after 1 attempt for container ""goodeploy-1"" on port 8080."
+80,2024-03-22T10:21:44.679139Z,[2024-03-22 18:21:44 +0800] [4] [INFO] Booting worker with pid: 4
+81,2024-03-22T10:21:44.665120Z,[2024-03-22 18:21:44 +0800] [2] [INFO] Using worker: gthread
+82,2024-03-22T10:21:44.665087Z,[2024-03-22 18:21:44 +0800] [2] [INFO] Listening at: http://0.0.0.0:8080 (2)
+83,2024-03-22T10:21:44.663541Z,[2024-03-22 18:21:44 +0800] [2] [INFO] Starting gunicorn 21.2.0
+84,2024-03-22T10:21:43.721960Z,
+85,2024-03-22T08:27:47.009127Z,
+86,2024-03-22T08:27:36.994114Z,
+87,2024-03-22T08:27:27.052462Z,"Default STARTUP TCP probe succeeded after 1 attempt for container ""goodeploy-1"" on port 8080."
+88,2024-03-22T08:27:27.051685Z,[2024-03-22 16:27:27 +0800] [4] [INFO] Booting worker with pid: 4
+89,2024-03-22T08:27:27.032532Z,[2024-03-22 16:27:27 +0800] [2] [INFO] Using worker: gthread
+90,2024-03-22T08:27:27.032491Z,[2024-03-22 16:27:27 +0800] [2] [INFO] Listening at: http://0.0.0.0:8080 (2)
+91,2024-03-22T08:27:27.031015Z,[2024-03-22 16:27:27 +0800] [2] [INFO] Starting gunicorn 21.2.0
+92,2024-03-22T08:27:25.772540Z,
+93,2024-03-21T23:43:11.801778Z,
+94,2024-03-21T23:43:07.233192Z,"[CoursesFirestore:get_course] {'total': 122, 'r': 122, 'w': 0, 'd': 0}"
+95,2024-03-21T23:43:07.233188Z,"[CoursesFirestore:get_course] {'total': 121, 'r': 121, 'w': 0, 'd': 0}"
+96,2024-03-21T23:43:07.233184Z,"[LineUsersFirestore:get_user] {'total': 239, 'r': 172, 'w': 67, 'd': 0}"
+97,2024-03-21T23:43:07.233180Z,"[CoursesFirestore:get_courses] {'total': 120, 'r': 120, 'w': 0, 'd': 0}"
+98,2024-03-21T23:43:07.233176Z,"[LineUsersFirestore:increase] {'total': 238, 'r': 171, 'w': 67, 'd': 0}"
+99,2024-03-21T23:43:07.233172Z,"[CoursesFirestore:get_course] {'total': 119, 'r': 119, 'w': 0, 'd': 0}"
+100,2024-03-21T23:43:07.233169Z,"[LineUsersFirestore:get_user] {'total': 235, 'r': 169, 'w': 66, 'd': 0}"
+101,2024-03-21T23:43:07.233165Z,"[LineUsersFirestore:increase] {'total': 234, 'r': 168, 'w': 66, 'd': 0}"
+102,2024-03-21T23:43:07.233161Z,"[CoursesFirestore:get_course] {'total': 118, 'r': 118, 'w': 0, 'd': 0}"
+103,2024-03-21T23:43:07.233158Z,"[LineUsersFirestore:get_user] {'total': 231, 'r': 166, 'w': 65, 'd': 0}"
+104,2024-03-21T23:43:07.233154Z,"[CoursesFirestore:get_course] {'total': 117, 'r': 117, 'w': 0, 'd': 0}"
+105,2024-03-21T23:43:07.233150Z,"[LineUsersFirestore:get_user] {'total': 229, 'r': 165, 'w': 64, 'd': 0}"
+106,2024-03-21T23:43:07.233146Z,"[LineUsersFirestore:increase] {'total': 228, 'r': 164, 'w': 64, 'd': 0}"
+107,2024-03-21T23:43:07.233142Z,"[CoursesFirestore:get_course] {'total': 116, 'r': 116, 'w': 0, 'd': 0}"
+108,2024-03-21T23:43:07.233139Z,"[LineUsersFirestore:get_user] {'total': 225, 'r': 162, 'w': 63, 'd': 0}"
+109,2024-03-21T23:43:07.233135Z,"[LineUsersFirestore:increase] {'total': 224, 'r': 161, 'w': 63, 'd': 0}"
+110,2024-03-21T23:43:07.233130Z,"[CoursesFirestore:get_course] {'total': 115, 'r': 115, 'w': 0, 'd': 0}"
+111,2024-03-21T23:43:07.233125Z,"[CoursesFirestore:get_course] {'total': 114, 'r': 114, 'w': 0, 'd': 0}"
+112,2024-03-21T23:43:07.233120Z,"[LineUsersFirestore:increase] {'total': 221, 'r': 159, 'w': 62, 'd': 0}"
+113,2024-03-21T23:43:07.233114Z,"[CoursesFirestore:get_course] {'total': 113, 'r': 113, 'w': 0, 'd': 0}"
+114,2024-03-21T23:43:07.233109Z,"[LineUsersFirestore:get_user] {'total': 218, 'r': 157, 'w': 61, 'd': 0}"
+115,2024-03-21T23:43:07.233104Z,"[CoursesFirestore:get_course] {'total': 112, 'r': 112, 'w': 0, 'd': 0}"
+116,2024-03-21T23:43:07.233100Z,"[LineUsersFirestore:get_user] {'total': 217, 'r': 156, 'w': 61, 'd': 0}"
+117,2024-03-21T23:43:07.233097Z,"[CoursesFirestore:get_course] {'total': 111, 'r': 111, 'w': 0, 'd': 0}"
+118,2024-03-21T23:43:07.233093Z,"[LineUsersFirestore:update_user] {'total': 216, 'r': 155, 'w': 61, 'd': 0}"
+119,2024-03-21T23:43:07.233089Z,"[LineUsersFirestore:increase] {'total': 214, 'r': 154, 'w': 60, 'd': 0}"
+120,2024-03-21T23:43:07.233085Z,"[CoursesFirestore:get_course] {'total': 110, 'r': 110, 'w': 0, 'd': 0}"
+121,2024-03-21T23:43:07.233081Z,"[CoursesFirestore:get_course] {'total': 109, 'r': 109, 'w': 0, 'd': 0}"
+122,2024-03-21T23:43:07.233078Z,"[LineUsersFirestore:get_user] {'total': 211, 'r': 152, 'w': 59, 'd': 0}"
+123,2024-03-21T23:43:07.233074Z,"[CoursesFirestore:get_courses] {'total': 108, 'r': 108, 'w': 0, 'd': 0}"
+124,2024-03-21T23:43:07.233070Z,"[LineUsersFirestore:increase] {'total': 210, 'r': 151, 'w': 59, 'd': 0}"
+125,2024-03-21T23:43:07.233066Z,"[CoursesFirestore:get_course] {'total': 107, 'r': 107, 'w': 0, 'd': 0}"
+126,2024-03-21T23:43:07.233062Z,"[LineUsersFirestore:get_user] {'total': 207, 'r': 149, 'w': 58, 'd': 0}"
+127,2024-03-21T23:43:07.233059Z,"[CoursesFirestore:get_course] {'total': 106, 'r': 106, 'w': 0, 'd': 0}"
+128,2024-03-21T23:43:07.233055Z,"[LineUsersFirestore:update_user] {'total': 206, 'r': 148, 'w': 58, 'd': 0}"
+129,2024-03-21T23:43:07.233051Z,"[LineUsersFirestore:increase] {'total': 204, 'r': 147, 'w': 57, 'd': 0}"
+130,2024-03-21T23:43:07.233047Z,"[CoursesFirestore:get_course] {'total': 105, 'r': 105, 'w': 0, 'd': 0}"
+131,2024-03-21T23:43:07.233043Z,"[CoursesFirestore:get_course] {'total': 104, 'r': 104, 'w': 0, 'd': 0}"
+132,2024-03-21T23:43:07.233039Z,"[LineUsersFirestore:get_user] {'total': 201, 'r': 145, 'w': 56, 'd': 0}"
+133,2024-03-21T23:43:07.233035Z,"[CoursesFirestore:get_courses] {'total': 103, 'r': 103, 'w': 0, 'd': 0}"
+134,2024-03-21T23:43:07.233031Z,"[LineUsersFirestore:increase] {'total': 200, 'r': 144, 'w': 56, 'd': 0}"
+135,2024-03-21T23:43:07.233027Z,"[CoursesFirestore:get_course] {'total': 102, 'r': 102, 'w': 0, 'd': 0}"
+136,2024-03-21T23:43:07.233022Z,"[CoursesFirestore:get_course] {'total': 101, 'r': 101, 'w': 0, 'd': 0}"
+137,2024-03-21T23:43:07.233017Z,"[LineUsersFirestore:increase] {'total': 197, 'r': 142, 'w': 55, 'd': 0}"
+138,2024-03-21T23:43:07.232998Z,"[CoursesFirestore:get_course] {'total': 100, 'r': 100, 'w': 0, 'd': 0}"
+139,2024-03-21T23:43:07.232994Z,"[LineUsersFirestore:get_user] {'total': 194, 'r': 140, 'w': 54, 'd': 0}"
+140,2024-03-21T23:43:07.232991Z,"[CoursesFirestore:get_course] {'total': 99, 'r': 99, 'w': 0, 'd': 0}"
+141,2024-03-21T23:43:07.232986Z,"[LineUsersFirestore:get_user] {'total': 193, 'r': 139, 'w': 54, 'd': 0}"
+142,2024-03-21T23:43:07.232983Z,"[CoursesFirestore:get_course] {'total': 98, 'r': 98, 'w': 0, 'd': 0}"
+143,2024-03-21T23:43:07.232979Z,"[LineUsersFirestore:update_user] {'total': 192, 'r': 138, 'w': 54, 'd': 0}"
+144,2024-03-21T23:43:07.232975Z,"[LineUsersFirestore:increase] {'total': 190, 'r': 137, 'w': 53, 'd': 0}"
+145,2024-03-21T23:43:07.232971Z,"[CoursesFirestore:get_course] {'total': 97, 'r': 97, 'w': 0, 'd': 0}"
+146,2024-03-21T23:43:07.232966Z,"[CoursesFirestore:get_course] {'total': 96, 'r': 96, 'w': 0, 'd': 0}"
+147,2024-03-21T23:43:07.232961Z,"[LineUsersFirestore:get_user] {'total': 187, 'r': 135, 'w': 52, 'd': 0}"
+148,2024-03-21T23:43:07.232958Z,"[CoursesFirestore:get_courses] {'total': 95, 'r': 95, 'w': 0, 'd': 0}"
+149,2024-03-21T23:43:07.232954Z,"[LineUsersFirestore:increase] {'total': 186, 'r': 134, 'w': 52, 'd': 0}"
+150,2024-03-21T23:43:07.232950Z,"[CoursesFirestore:get_course] {'total': 94, 'r': 94, 'w': 0, 'd': 0}"
+151,2024-03-21T23:43:07.232946Z,"[CoursesFirestore:get_course] {'total': 93, 'r': 93, 'w': 0, 'd': 0}"
+152,2024-03-21T23:43:07.232942Z,"[LineUsersFirestore:increase] {'total': 183, 'r': 132, 'w': 51, 'd': 0}"
+153,2024-03-21T23:43:07.232938Z,"[CoursesFirestore:get_course] {'total': 92, 'r': 92, 'w': 0, 'd': 0}"
+154,2024-03-21T23:43:07.232934Z,"[LineUsersFirestore:get_user] {'total': 180, 'r': 130, 'w': 50, 'd': 0}"
+155,2024-03-21T23:43:07.232930Z,"[CoursesFirestore:get_course] {'total': 91, 'r': 91, 'w': 0, 'd': 0}"
+156,2024-03-21T23:43:07.232926Z,"[LineUsersFirestore:get_user] {'total': 179, 'r': 129, 'w': 50, 'd': 0}"
+157,2024-03-21T23:43:07.232922Z,"[CoursesFirestore:get_course] {'total': 90, 'r': 90, 'w': 0, 'd': 0}"
+158,2024-03-21T23:43:07.232919Z,"[LineUsersFirestore:update_user] {'total': 178, 'r': 128, 'w': 50, 'd': 0}"
+159,2024-03-21T23:43:07.232915Z,"[LineUsersFirestore:increase] {'total': 176, 'r': 127, 'w': 49, 'd': 0}"
+160,2024-03-21T23:43:07.232911Z,"[CoursesFirestore:get_course] {'total': 89, 'r': 89, 'w': 0, 'd': 0}"
+161,2024-03-21T23:43:07.232907Z,"[CoursesFirestore:get_course] {'total': 88, 'r': 88, 'w': 0, 'd': 0}"
+162,2024-03-21T23:43:07.232904Z,"[LineUsersFirestore:get_user] {'total': 173, 'r': 125, 'w': 48, 'd': 0}"
+163,2024-03-21T23:43:07.232900Z,"[CoursesFirestore:get_courses] {'total': 87, 'r': 87, 'w': 0, 'd': 0}"
+164,2024-03-21T23:43:07.232896Z,"[LineUsersFirestore:increase] {'total': 172, 'r': 124, 'w': 48, 'd': 0}"
+165,2024-03-21T23:43:07.232891Z,"[CoursesFirestore:get_course] {'total': 86, 'r': 86, 'w': 0, 'd': 0}"
+166,2024-03-21T23:43:07.232887Z,"[LineUsersFirestore:get_user] {'total': 169, 'r': 122, 'w': 47, 'd': 0}"
+167,2024-03-21T23:43:07.232883Z,"[CoursesFirestore:get_course] {'total': 85, 'r': 85, 'w': 0, 'd': 0}"
+168,2024-03-21T23:43:07.232880Z,"[LineUsersFirestore:update_user] {'total': 168, 'r': 121, 'w': 47, 'd': 0}"
+169,2024-03-21T23:43:07.232876Z,"[LineUsersFirestore:increase] {'total': 166, 'r': 120, 'w': 46, 'd': 0}"
+170,2024-03-21T23:43:07.232872Z,"[CoursesFirestore:get_course] {'total': 84, 'r': 84, 'w': 0, 'd': 0}"
+171,2024-03-21T23:43:07.232869Z,"[CoursesFirestore:get_course] {'total': 83, 'r': 83, 'w': 0, 'd': 0}"
+172,2024-03-21T23:43:07.232865Z,"[LineUsersFirestore:get_user] {'total': 163, 'r': 118, 'w': 45, 'd': 0}"
+173,2024-03-21T23:43:07.232861Z,"[CoursesFirestore:get_courses] {'total': 82, 'r': 82, 'w': 0, 'd': 0}"
+174,2024-03-21T23:43:07.232857Z,"[LineUsersFirestore:increase] {'total': 162, 'r': 117, 'w': 45, 'd': 0}"
+175,2024-03-21T23:43:07.232853Z,"[CoursesFirestore:get_course] {'total': 81, 'r': 81, 'w': 0, 'd': 0}"
+176,2024-03-21T23:43:07.232850Z,"[LineUsersFirestore:get_user] {'total': 159, 'r': 115, 'w': 44, 'd': 0}"
+177,2024-03-21T23:43:07.232846Z,"[CoursesFirestore:get_course] {'total': 80, 'r': 80, 'w': 0, 'd': 0}"
+178,2024-03-21T23:43:07.232842Z,"[LineUsersFirestore:increase] {'total': 158, 'r': 114, 'w': 44, 'd': 0}"
+179,2024-03-21T23:43:07.232838Z,"[CoursesFirestore:get_course] {'total': 79, 'r': 79, 'w': 0, 'd': 0}"
+180,2024-03-21T23:43:07.232834Z,"[LineUsersFirestore:get_user] {'total': 155, 'r': 112, 'w': 43, 'd': 0}"
+181,2024-03-21T23:43:07.232830Z,"[CoursesFirestore:get_course] {'total': 78, 'r': 78, 'w': 0, 'd': 0}"
+182,2024-03-21T23:43:07.232827Z,"[LineUsersFirestore:get_user] {'total': 154, 'r': 111, 'w': 43, 'd': 0}"
+183,2024-03-21T23:43:07.232823Z,"[CoursesFirestore:get_course] {'total': 77, 'r': 77, 'w': 0, 'd': 0}"
+184,2024-03-21T23:43:07.232819Z,"[LineUsersFirestore:update_user] {'total': 153, 'r': 110, 'w': 43, 'd': 0}"
+185,2024-03-21T23:43:07.232815Z,"[LineUsersFirestore:increase] {'total': 151, 'r': 109, 'w': 42, 'd': 0}"
+186,2024-03-21T23:43:07.232811Z,"[CoursesFirestore:get_course] {'total': 76, 'r': 76, 'w': 0, 'd': 0}"
+187,2024-03-21T23:43:07.232807Z,"[CoursesFirestore:get_course] {'total': 75, 'r': 75, 'w': 0, 'd': 0}"
+188,2024-03-21T23:43:07.232803Z,"[LineUsersFirestore:get_user] {'total': 148, 'r': 107, 'w': 41, 'd': 0}"
+189,2024-03-21T23:43:07.232799Z,"[CoursesFirestore:get_courses] {'total': 74, 'r': 74, 'w': 0, 'd': 0}"
+190,2024-03-21T23:43:07.232795Z,"[LineUsersFirestore:increase] {'total': 147, 'r': 106, 'w': 41, 'd': 0}"
+191,2024-03-21T23:43:07.232791Z,"[CoursesFirestore:get_course] {'total': 73, 'r': 73, 'w': 0, 'd': 0}"
+192,2024-03-21T23:43:07.232787Z,"[LineUsersFirestore:get_user] {'total': 144, 'r': 104, 'w': 40, 'd': 0}"
+193,2024-03-21T23:43:07.232783Z,"[CoursesFirestore:get_course] {'total': 72, 'r': 72, 'w': 0, 'd': 0}"
+194,2024-03-21T23:43:07.232779Z,"[LineUsersFirestore:increase] {'total': 143, 'r': 103, 'w': 40, 'd': 0}"
+195,2024-03-21T23:43:07.232775Z,"[CoursesFirestore:get_course] {'total': 71, 'r': 71, 'w': 0, 'd': 0}"
+196,2024-03-21T23:43:07.232756Z,"[LineUsersFirestore:get_user] {'total': 140, 'r': 101, 'w': 39, 'd': 0}"
+197,2024-03-21T23:43:07.232752Z,"[CoursesFirestore:get_course] {'total': 70, 'r': 70, 'w': 0, 'd': 0}"
+198,2024-03-21T23:43:07.232748Z,"[LineUsersFirestore:get_user] {'total': 139, 'r': 100, 'w': 39, 'd': 0}"
+199,2024-03-21T23:43:07.232742Z,"[CoursesFirestore:get_course] {'total': 69, 'r': 69, 'w': 0, 'd': 0}"
+200,2024-03-21T23:43:07.232737Z,"[LineUsersFirestore:update_user] {'total': 138, 'r': 99, 'w': 39, 'd': 0}"
+201,2024-03-21T23:43:07.232731Z,"[LineUsersFirestore:increase] {'total': 136, 'r': 98, 'w': 38, 'd': 0}"
+202,2024-03-21T23:43:07.232725Z,"[CoursesFirestore:get_course] {'total': 68, 'r': 68, 'w': 0, 'd': 0}"
+203,2024-03-21T23:43:07.232720Z,"[CoursesFirestore:get_course] {'total': 67, 'r': 67, 'w': 0, 'd': 0}"
+204,2024-03-21T23:43:07.232714Z,"[LineUsersFirestore:get_user] {'total': 133, 'r': 96, 'w': 37, 'd': 0}"
+205,2024-03-21T23:43:07.232708Z,"[CoursesFirestore:get_courses] {'total': 66, 'r': 66, 'w': 0, 'd': 0}"
+206,2024-03-21T23:43:07.232702Z,"[LineUsersFirestore:increase] {'total': 132, 'r': 95, 'w': 37, 'd': 0}"
+207,2024-03-21T23:43:07.232697Z,"[CoursesFirestore:get_course] {'total': 65, 'r': 65, 'w': 0, 'd': 0}"
+208,2024-03-21T23:43:07.232681Z,"[CoursesFirestore:get_course] {'total': 64, 'r': 64, 'w': 0, 'd': 0}"
+209,2024-03-21T23:43:07.165830Z,
+210,2024-03-21T23:43:01.340254Z,
+211,2024-03-21T23:42:51.741998Z,
+212,2024-03-21T23:42:48.134322Z,
+213,2024-03-21T23:42:40.765725Z,
+214,2024-03-21T23:42:36.457128Z,
+215,2024-03-21T23:42:27.359023Z,
+216,2024-03-21T23:41:22.270089Z,
+217,2024-03-21T23:41:06.100863Z,
+218,2024-03-21T23:41:02.479183Z,
+219,2024-03-21T23:40:59.180468Z,
+220,2024-03-21T23:40:51.364598Z,
+221,2024-03-21T23:40:38.898771Z,
+222,2024-03-21T23:40:34.889120Z,
+223,2024-03-21T23:40:24.653847Z,
+224,2024-03-21T23:40:18.927870Z,
+225,2024-03-21T23:40:16.470763Z,
+226,2024-03-21T23:40:13.562894Z,
+227,2024-03-21T23:40:09.870097Z,
+228,2024-03-21T23:40:02.923112Z,
+229,2024-03-21T23:40:00.579961Z,
+230,2024-03-21T23:39:55.851663Z,
+231,2024-03-21T23:39:50.951173Z,
+232,2024-03-21T23:39:47.376758Z,
+233,2024-03-21T23:39:43.850451Z,"[LineUsersFirestore:increase] {'total': 129, 'r': 93, 'w': 36, 'd': 0}"
+234,2024-03-21T23:39:43.850447Z,"[CoursesFirestore:get_course] {'total': 63, 'r': 63, 'w': 0, 'd': 0}"
+235,2024-03-21T23:39:43.850443Z,"[LineUsersFirestore:get_user] {'total': 126, 'r': 91, 'w': 35, 'd': 0}"
+236,2024-03-21T23:39:43.850439Z,"[CoursesFirestore:get_course] {'total': 62, 'r': 62, 'w': 0, 'd': 0}"
+237,2024-03-21T23:39:43.850435Z,"[LineUsersFirestore:get_user] {'total': 125, 'r': 90, 'w': 35, 'd': 0}"
+238,2024-03-21T23:39:43.850429Z,"[CoursesFirestore:get_course] {'total': 61, 'r': 61, 'w': 0, 'd': 0}"
+239,2024-03-21T23:39:43.850405Z,"[LineUsersFirestore:update_user] {'total': 124, 'r': 89, 'w': 35, 'd': 0}"
+240,2024-03-21T23:39:43.850401Z,"[LineUsersFirestore:increase] {'total': 122, 'r': 88, 'w': 34, 'd': 0}"
+241,2024-03-21T23:39:43.850397Z,"[CoursesFirestore:get_course] {'total': 60, 'r': 60, 'w': 0, 'd': 0}"
+242,2024-03-21T23:39:43.850394Z,"[CoursesFirestore:get_course] {'total': 59, 'r': 59, 'w': 0, 'd': 0}"
+243,2024-03-21T23:39:43.850390Z,"[LineUsersFirestore:get_user] {'total': 119, 'r': 86, 'w': 33, 'd': 0}"
+244,2024-03-21T23:39:43.850386Z,"[CoursesFirestore:get_courses] {'total': 58, 'r': 58, 'w': 0, 'd': 0}"
+245,2024-03-21T23:39:43.850381Z,"[LineUsersFirestore:increase] {'total': 118, 'r': 85, 'w': 33, 'd': 0}"
+246,2024-03-21T23:39:43.850377Z,"[CoursesFirestore:get_course] {'total': 57, 'r': 57, 'w': 0, 'd': 0}"
+247,2024-03-21T23:39:43.850374Z,"[LineUsersFirestore:get_user] {'total': 115, 'r': 83, 'w': 32, 'd': 0}"
+248,2024-03-21T23:39:43.850370Z,"[CoursesFirestore:get_course] {'total': 56, 'r': 56, 'w': 0, 'd': 0}"
+249,2024-03-21T23:39:43.850367Z,"[LineUsersFirestore:update_user] {'total': 114, 'r': 82, 'w': 32, 'd': 0}"
+250,2024-03-21T23:39:43.850362Z,"[LineUsersFirestore:increase] {'total': 112, 'r': 81, 'w': 31, 'd': 0}"
+251,2024-03-21T23:39:43.850357Z,"[CoursesFirestore:get_course] {'total': 55, 'r': 55, 'w': 0, 'd': 0}"
+252,2024-03-21T23:39:43.850352Z,"[CoursesFirestore:get_course] {'total': 54, 'r': 54, 'w': 0, 'd': 0}"
+253,2024-03-21T23:39:43.850347Z,"[LineUsersFirestore:get_user] {'total': 109, 'r': 79, 'w': 30, 'd': 0}"
+254,2024-03-21T23:39:43.850343Z,"[CoursesFirestore:get_courses] {'total': 53, 'r': 53, 'w': 0, 'd': 0}"
+255,2024-03-21T23:39:43.850339Z,"[LineUsersFirestore:increase] {'total': 108, 'r': 78, 'w': 30, 'd': 0}"
+256,2024-03-21T23:39:43.850335Z,"[CoursesFirestore:get_course] {'total': 52, 'r': 52, 'w': 0, 'd': 0}"
+257,2024-03-21T23:39:43.850332Z,"[CoursesFirestore:get_course] {'total': 51, 'r': 51, 'w': 0, 'd': 0}"
+258,2024-03-21T23:39:43.850328Z,"[LineUsersFirestore:increase] {'total': 105, 'r': 76, 'w': 29, 'd': 0}"
+259,2024-03-21T23:39:43.850324Z,"[CoursesFirestore:get_course] {'total': 50, 'r': 50, 'w': 0, 'd': 0}"
+260,2024-03-21T23:39:43.850321Z,"[LineUsersFirestore:get_user] {'total': 102, 'r': 74, 'w': 28, 'd': 0}"
+261,2024-03-21T23:39:43.850317Z,"[CoursesFirestore:get_course] {'total': 49, 'r': 49, 'w': 0, 'd': 0}"
+262,2024-03-21T23:39:43.850314Z,"[LineUsersFirestore:get_user] {'total': 101, 'r': 73, 'w': 28, 'd': 0}"
+263,2024-03-21T23:39:43.850309Z,"[CoursesFirestore:get_course] {'total': 48, 'r': 48, 'w': 0, 'd': 0}"
+264,2024-03-21T23:39:43.850306Z,"[LineUsersFirestore:update_user] {'total': 100, 'r': 72, 'w': 28, 'd': 0}"
+265,2024-03-21T23:39:43.850302Z,"[LineUsersFirestore:increase] {'total': 98, 'r': 71, 'w': 27, 'd': 0}"
+266,2024-03-21T23:39:43.850298Z,"[CoursesFirestore:get_course] {'total': 47, 'r': 47, 'w': 0, 'd': 0}"
+267,2024-03-21T23:39:43.850295Z,"[CoursesFirestore:get_course] {'total': 46, 'r': 46, 'w': 0, 'd': 0}"
+268,2024-03-21T23:39:43.850291Z,"[LineUsersFirestore:get_user] {'total': 95, 'r': 69, 'w': 26, 'd': 0}"
+269,2024-03-21T23:39:43.850287Z,"[CoursesFirestore:get_courses] {'total': 45, 'r': 45, 'w': 0, 'd': 0}"
+270,2024-03-21T23:39:43.850283Z,"[LineUsersFirestore:increase] {'total': 94, 'r': 68, 'w': 26, 'd': 0}"
+271,2024-03-21T23:39:43.850279Z,"[CoursesFirestore:get_course] {'total': 44, 'r': 44, 'w': 0, 'd': 0}"
+272,2024-03-21T23:39:43.850275Z,"[CoursesFirestore:get_course] {'total': 43, 'r': 43, 'w': 0, 'd': 0}"
+273,2024-03-21T23:39:43.850271Z,"[LineUsersFirestore:increase] {'total': 91, 'r': 66, 'w': 25, 'd': 0}"
+274,2024-03-21T23:39:43.850267Z,"[CoursesFirestore:get_course] {'total': 42, 'r': 42, 'w': 0, 'd': 0}"
+275,2024-03-21T23:39:43.850264Z,"[LineUsersFirestore:get_user] {'total': 88, 'r': 64, 'w': 24, 'd': 0}"
+276,2024-03-21T23:39:43.850259Z,"[CoursesFirestore:get_course] {'total': 41, 'r': 41, 'w': 0, 'd': 0}"
+277,2024-03-21T23:39:43.850256Z,"[LineUsersFirestore:get_user] {'total': 87, 'r': 63, 'w': 24, 'd': 0}"
+278,2024-03-21T23:39:43.850252Z,"[CoursesFirestore:get_course] {'total': 40, 'r': 40, 'w': 0, 'd': 0}"
+279,2024-03-21T23:39:43.850248Z,"[LineUsersFirestore:update_user] {'total': 86, 'r': 62, 'w': 24, 'd': 0}"
+280,2024-03-21T23:39:43.850244Z,"[LineUsersFirestore:increase] {'total': 84, 'r': 61, 'w': 23, 'd': 0}"
+281,2024-03-21T23:39:43.850241Z,"[CoursesFirestore:get_course] {'total': 39, 'r': 39, 'w': 0, 'd': 0}"
+282,2024-03-21T23:39:43.850237Z,"[CoursesFirestore:get_course] {'total': 38, 'r': 38, 'w': 0, 'd': 0}"
+283,2024-03-21T23:39:43.850233Z,"[LineUsersFirestore:get_user] {'total': 81, 'r': 59, 'w': 22, 'd': 0}"
+284,2024-03-21T23:39:43.850230Z,"[CoursesFirestore:get_courses] {'total': 37, 'r': 37, 'w': 0, 'd': 0}"
+285,2024-03-21T23:39:43.850226Z,"[LineUsersFirestore:increase] {'total': 80, 'r': 58, 'w': 22, 'd': 0}"
+286,2024-03-21T23:39:43.850223Z,"[CoursesFirestore:get_course] {'total': 36, 'r': 36, 'w': 0, 'd': 0}"
+287,2024-03-21T23:39:43.850219Z,"[LineUsersFirestore:get_user] {'total': 77, 'r': 56, 'w': 21, 'd': 0}"
+288,2024-03-21T23:39:43.850215Z,"[CoursesFirestore:get_course] {'total': 35, 'r': 35, 'w': 0, 'd': 0}"
+289,2024-03-21T23:39:43.850212Z,"[LineUsersFirestore:increase] {'total': 76, 'r': 55, 'w': 21, 'd': 0}"
+290,2024-03-21T23:39:43.850207Z,"[CoursesFirestore:get_course] {'total': 34, 'r': 34, 'w': 0, 'd': 0}"
+291,2024-03-21T23:39:43.850202Z,"[LineUsersFirestore:get_user] {'total': 73, 'r': 53, 'w': 20, 'd': 0}"
+292,2024-03-21T23:39:43.850197Z,"[CoursesFirestore:get_course] {'total': 33, 'r': 33, 'w': 0, 'd': 0}"
+293,2024-03-21T23:39:43.850193Z,"[LineUsersFirestore:get_user] {'total': 72, 'r': 52, 'w': 20, 'd': 0}"
+294,2024-03-21T23:39:43.850189Z,"[CoursesFirestore:get_course] {'total': 32, 'r': 32, 'w': 0, 'd': 0}"
+295,2024-03-21T23:39:43.850184Z,"[LineUsersFirestore:update_user] {'total': 71, 'r': 51, 'w': 20, 'd': 0}"
+296,2024-03-21T23:39:43.850179Z,"[LineUsersFirestore:increase] {'total': 69, 'r': 50, 'w': 19, 'd': 0}"
+297,2024-03-21T23:39:43.850174Z,"[CoursesFirestore:get_course] {'total': 31, 'r': 31, 'w': 0, 'd': 0}"
+298,2024-03-21T23:39:43.850169Z,"[CoursesFirestore:get_course] {'total': 30, 'r': 30, 'w': 0, 'd': 0}"
+299,2024-03-21T23:39:43.850164Z,"[LineUsersFirestore:get_user] {'total': 66, 'r': 48, 'w': 18, 'd': 0}"
+300,2024-03-21T23:39:43.850158Z,"[CoursesFirestore:get_courses] {'total': 29, 'r': 29, 'w': 0, 'd': 0}"
+301,2024-03-21T23:39:43.850152Z,"[LineUsersFirestore:increase] {'total': 65, 'r': 47, 'w': 18, 'd': 0}"
+302,2024-03-21T23:39:43.850147Z,"[LineUsersFirestore:meet_criterion] {'total': 62, 'r': 45, 'w': 17, 'd': 0}"
+303,2024-03-21T23:39:43.850142Z,"[LineUsersFirestore:increase] {'total': 61, 'r': 44, 'w': 17, 'd': 0}"
+304,2024-03-21T23:39:43.850137Z,"[CoursesFirestore:get_course] {'total': 28, 'r': 28, 'w': 0, 'd': 0}"
+305,2024-03-21T23:39:43.850132Z,"[LineUsersFirestore:get_user] {'total': 58, 'r': 42, 'w': 16, 'd': 0}"
+306,2024-03-21T23:39:43.850128Z,"[LineUsersFirestore:increase] {'total': 57, 'r': 41, 'w': 16, 'd': 0}"
+307,2024-03-21T23:39:43.850122Z,"[LineUsersFirestore:increase] {'total': 54, 'r': 39, 'w': 15, 'd': 0}"
+308,2024-03-21T23:39:43.850117Z,"[CoursesFirestore:get_course] {'total': 27, 'r': 27, 'w': 0, 'd': 0}"
+309,2024-03-21T23:39:43.850112Z,"[LineUsersFirestore:get_user] {'total': 51, 'r': 37, 'w': 14, 'd': 0}"
+310,2024-03-21T23:39:43.850107Z,"[CoursesFirestore:get_course] {'total': 26, 'r': 26, 'w': 0, 'd': 0}"
+311,2024-03-21T23:39:43.850102Z,"[LineUsersFirestore:update_user] {'total': 50, 'r': 36, 'w': 14, 'd': 0}"
+312,2024-03-21T23:39:43.850097Z,"[LineUsersFirestore:increase] {'total': 48, 'r': 35, 'w': 13, 'd': 0}"
+313,2024-03-21T23:39:43.850092Z,"[CoursesFirestore:get_course] {'total': 25, 'r': 25, 'w': 0, 'd': 0}"
+314,2024-03-21T23:39:43.850087Z,"[CoursesFirestore:get_course] {'total': 24, 'r': 24, 'w': 0, 'd': 0}"
+315,2024-03-21T23:39:43.850082Z,"[LineUsersFirestore:get_user] {'total': 45, 'r': 33, 'w': 12, 'd': 0}"
+316,2024-03-21T23:39:43.850076Z,"[CoursesFirestore:get_courses] {'total': 23, 'r': 23, 'w': 0, 'd': 0}"
+317,2024-03-21T23:39:43.850071Z,"[LineUsersFirestore:increase] {'total': 44, 'r': 32, 'w': 12, 'd': 0}"
+318,2024-03-21T23:39:43.850068Z,"[CoursesFirestore:get_course] {'total': 22, 'r': 22, 'w': 0, 'd': 0}"
+319,2024-03-21T23:39:43.850064Z,"[CoursesFirestore:get_course] {'total': 21, 'r': 21, 'w': 0, 'd': 0}"
+320,2024-03-21T23:39:43.850060Z,"[LineUsersFirestore:increase] {'total': 41, 'r': 30, 'w': 11, 'd': 0}"
+321,2024-03-21T23:39:43.850056Z,"[CoursesFirestore:get_course] {'total': 20, 'r': 20, 'w': 0, 'd': 0}"
+322,2024-03-21T23:39:43.850053Z,"[LineUsersFirestore:get_user] {'total': 38, 'r': 28, 'w': 10, 'd': 0}"
+323,2024-03-21T23:39:43.850049Z,"[CoursesFirestore:get_course] {'total': 19, 'r': 19, 'w': 0, 'd': 0}"
+324,2024-03-21T23:39:43.850045Z,"[LineUsersFirestore:get_user] {'total': 37, 'r': 27, 'w': 10, 'd': 0}"
+325,2024-03-21T23:39:43.850042Z,"[LineUsersFirestore:increase] {'total': 36, 'r': 26, 'w': 10, 'd': 0}"
+326,2024-03-21T23:39:43.850038Z,"[CoursesFirestore:get_course] {'total': 18, 'r': 18, 'w': 0, 'd': 0}"
+327,2024-03-21T23:39:43.850034Z,"[CoursesFirestore:get_course] {'total': 17, 'r': 17, 'w': 0, 'd': 0}"
+328,2024-03-21T23:39:43.850031Z,"[LineUsersFirestore:get_user] {'total': 33, 'r': 24, 'w': 9, 'd': 0}"
+329,2024-03-21T23:39:43.850027Z,"[LineUsersFirestore:increase] {'total': 32, 'r': 23, 'w': 9, 'd': 0}"
+330,2024-03-21T23:39:43.850023Z,"[LineUsersFirestore:meet_criterion] {'total': 29, 'r': 21, 'w': 8, 'd': 0}"
+331,2024-03-21T23:39:43.850020Z,"[LineUsersFirestore:increase] {'total': 28, 'r': 20, 'w': 8, 'd': 0}"
+332,2024-03-21T23:39:43.850016Z,"[LineUsersFirestore:meet_criterion] {'total': 25, 'r': 18, 'w': 7, 'd': 0}"
+333,2024-03-21T23:39:43.850012Z,"[LineUsersFirestore:increase] {'total': 24, 'r': 17, 'w': 7, 'd': 0}"
+334,2024-03-21T23:39:43.850007Z,"[CoursesFirestore:get_course] {'total': 16, 'r': 16, 'w': 0, 'd': 0}"
+335,2024-03-21T23:39:43.850004Z,"[LineUsersFirestore:get_user] {'total': 21, 'r': 15, 'w': 6, 'd': 0}"
+336,2024-03-21T23:39:43.850Z,"[LineUsersFirestore:increase] {'total': 20, 'r': 14, 'w': 6, 'd': 0}"
+337,2024-03-21T23:39:43.849996Z,"[CoursesFirestore:get_course] {'total': 15, 'r': 15, 'w': 0, 'd': 0}"
+338,2024-03-21T23:39:43.849992Z,"[LineUsersFirestore:get_user] {'total': 17, 'r': 12, 'w': 5, 'd': 0}"
+339,2024-03-21T23:39:43.849988Z,"[LineUsersFirestore:increase] {'total': 16, 'r': 11, 'w': 5, 'd': 0}"
+340,2024-03-21T23:39:43.849984Z,"[LineUsersFirestore:increase] {'total': 13, 'r': 9, 'w': 4, 'd': 0}"
+341,2024-03-21T23:39:43.849980Z,"[CoursesFirestore:get_course] {'total': 14, 'r': 14, 'w': 0, 'd': 0}"
+342,2024-03-21T23:39:43.849977Z,"[CoursesFirestore:get_courses] {'total': 13, 'r': 13, 'w': 0, 'd': 0}"
+343,2024-03-21T23:39:43.849973Z,"[CoursesFirestore:get_course] {'total': 12, 'r': 12, 'w': 0, 'd': 0}"
+344,2024-03-21T23:39:43.849969Z,"[LineUsersFirestore:increase] {'total': 10, 'r': 7, 'w': 3, 'd': 0}"
+345,2024-03-21T23:39:43.849965Z,"[LineUsersFirestore:get_user] {'total': 8, 'r': 6, 'w': 2, 'd': 0}"
+346,2024-03-21T23:39:43.849961Z,"[CoursesFirestore:get_courses] {'total': 11, 'r': 11, 'w': 0, 'd': 0}"
+347,2024-03-21T23:39:43.849957Z,"[LineUsersFirestore:increase] {'total': 7, 'r': 5, 'w': 2, 'd': 0}"
+348,2024-03-21T23:39:43.849953Z,"[LineUsersFirestore:increase] {'total': 5, 'r': 4, 'w': 1, 'd': 0}"
+349,2024-03-21T23:39:43.849934Z,"[CoursesFirestore:__init__] {'total': 10, 'r': 10, 'w': 0, 'd': 0}"
+350,2024-03-21T23:39:43.786112Z,
+351,2024-03-21T23:39:40.275975Z,
+352,2024-03-21T23:39:37.847373Z,
+353,2024-03-21T23:39:27.886698Z,
+354,2024-03-21T23:39:25.363398Z,
+355,2024-03-21T23:39:05.931110Z,
+356,2024-03-21T23:38:55.256518Z,
+357,2024-03-21T23:38:52.668357Z,
+358,2024-03-21T23:38:42.808234Z,
+359,2024-03-21T23:38:38.665408Z,
+360,2024-03-21T23:38:36.670896Z,
+361,2024-03-21T23:38:15.791551Z,
+362,2024-03-21T23:38:12.228308Z,
+363,2024-03-21T23:38:04.539369Z,
+364,2024-03-21T23:38:00.297747Z,
+365,2024-03-21T23:37:57.630974Z,"Traceback (most recent call last):
+  File ""/usr/local/lib/python3.8/site-packages/flask/app.py"", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File ""/usr/local/lib/python3.8/site-packages/flask/app.py"", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File ""/usr/local/lib/python3.8/site-packages/flask/app.py"", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File ""/usr/local/lib/python3.8/site-packages/flask/app.py"", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File ""/goodeploy/goodeploy.py"", line 524, in default
+    handler.handle(body, signature)
+  File ""/usr/local/lib/python3.8/site-packages/linebot/webhook.py"", line 263, in handle
+    self.__invoke_func(func, event, payload)
+  File ""/usr/local/lib/python3.8/site-packages/linebot/webhook.py"", line 275, in __invoke_func
+    func(event)
+  File ""/goodeploy/goodeploy.py"", line 558, in handle_textmessage
+    msg = msg_clear(event.source.user_id)
+  File ""/goodeploy/goodeploy.py"", line 380, in msg_clear
+    params = get_accept(alt).keys()
+AttributeError: 'NoneType' object has no attribute 'keys'"
+366,2024-03-21T23:37:57.630937Z,"[2024-03-22 07:37:57,631] ERROR in app: Exception on /goodeploy [POST]"
+367,2024-03-21T23:37:57.574766Z,
+368,2024-03-21T23:37:50.218709Z,
+369,2024-03-21T23:37:43.673687Z,
+370,2024-03-21T23:37:35.360982Z,
+371,2024-03-21T23:37:32.347490Z,
+372,2024-03-21T23:37:27.437538Z,
+373,2024-03-21T23:37:24.230522Z,
+374,2024-03-21T23:37:20.584450Z,
+375,2024-03-21T23:37:16.997579Z,
+376,2024-03-21T23:37:00.960647Z,
+377,2024-03-21T23:36:58.373696Z,
+378,2024-03-21T23:36:56.371635Z,
+379,2024-03-21T23:36:55.485801Z,"Default STARTUP TCP probe succeeded after 1 attempt for container ""goodeploy-1"" on port 8080."
+380,2024-03-21T23:36:55.464968Z,[2024-03-22 07:36:55 +0800] [4] [INFO] Booting worker with pid: 4
+381,2024-03-21T23:36:55.445908Z,[2024-03-22 07:36:55 +0800] [2] [INFO] Using worker: gthread
+382,2024-03-21T23:36:55.445899Z,[2024-03-22 07:36:55 +0800] [2] [INFO] Listening at: http://0.0.0.0:8080 (2)
+383,2024-03-21T23:36:55.444209Z,[2024-03-22 07:36:55 +0800] [2] [INFO] Starting gunicorn 21.2.0
+384,2024-03-21T23:36:54.370647Z,
+385,2024-03-21T18:31:36.881249Z,
+386,2024-03-21T18:31:18.719704Z,
+387,2024-03-21T18:31:12.043888Z,
+388,2024-03-21T18:30:51.193477Z,"Default STARTUP TCP probe succeeded after 1 attempt for container ""goodeploy-1"" on port 8080."
+389,2024-03-21T18:30:51.190868Z,[2024-03-22 02:30:51 +0800] [4] [INFO] Booting worker with pid: 4
+390,2024-03-21T18:30:51.173605Z,[2024-03-22 02:30:51 +0800] [2] [INFO] Using worker: gthread
+391,2024-03-21T18:30:51.173558Z,[2024-03-22 02:30:51 +0800] [2] [INFO] Listening at: http://0.0.0.0:8080 (2)
+392,2024-03-21T18:30:51.171958Z,[2024-03-22 02:30:51 +0800] [2] [INFO] Starting gunicorn 21.2.0
+393,2024-03-21T18:30:50.035011Z,
+394,2024-03-21T09:14:11.915239Z,
+395,2024-03-21T09:12:28.271019Z,
+396,2024-03-21T09:12:23.668457Z,
+397,2024-03-21T09:10:05.066125Z,
+398,2024-03-21T09:10:02.922283Z,
+399,2024-03-21T09:09:47.238252Z,
+400,2024-03-21T09:09:33.044891Z,"[LineUsersFirestore:get_user] {'total': 178, 'r': 138, 'w': 40, 'd': 0}"
+401,2024-03-21T09:09:33.044887Z,"[CoursesFirestore:get_course] {'total': 145, 'r': 145, 'w': 0, 'd': 0}"
+402,2024-03-21T09:09:33.044883Z,"[LineUsersFirestore:get_user] {'total': 177, 'r': 137, 'w': 40, 'd': 0}"
+403,2024-03-21T09:09:33.044879Z,"[CoursesFirestore:get_course] {'total': 144, 'r': 144, 'w': 0, 'd': 0}"
+404,2024-03-21T09:09:33.044873Z,"[LineUsersFirestore:increase] {'total': 176, 'r': 136, 'w': 40, 'd': 0}"
+405,2024-03-21T09:09:33.044868Z,"[CoursesFirestore:get_course] {'total': 143, 'r': 143, 'w': 0, 'd': 0}"
+406,2024-03-21T09:09:33.044864Z,"[CoursesFirestore:get_course] {'total': 142, 'r': 142, 'w': 0, 'd': 0}"
+407,2024-03-21T09:09:33.044860Z,"[LineUsersFirestore:get_user] {'total': 173, 'r': 134, 'w': 39, 'd': 0}"
+408,2024-03-21T09:09:33.044854Z,"[CoursesFirestore:get_course] {'total': 141, 'r': 141, 'w': 0, 'd': 0}"
+409,2024-03-21T09:09:33.044849Z,"[LineUsersFirestore:increase] {'total': 172, 'r': 133, 'w': 39, 'd': 0}"
+410,2024-03-21T09:09:33.044845Z,"[CoursesFirestore:get_course] {'total': 140, 'r': 140, 'w': 0, 'd': 0}"
+411,2024-03-21T09:09:33.044840Z,"[CoursesFirestore:get_course] {'total': 139, 'r': 139, 'w': 0, 'd': 0}"
+412,2024-03-21T09:09:33.044834Z,"[LineUsersFirestore:get_user] {'total': 169, 'r': 131, 'w': 38, 'd': 0}"
+413,2024-03-21T09:09:33.044830Z,"[CoursesFirestore:get_course] {'total': 138, 'r': 138, 'w': 0, 'd': 0}"
+414,2024-03-21T09:09:33.044825Z,"[LineUsersFirestore:increase] {'total': 168, 'r': 130, 'w': 38, 'd': 0}"
+415,2024-03-21T09:09:33.044821Z,"[CoursesFirestore:get_course] {'total': 137, 'r': 137, 'w': 0, 'd': 0}"
+416,2024-03-21T09:09:33.044817Z,"[CoursesFirestore:get_course] {'total': 136, 'r': 136, 'w': 0, 'd': 0}"
+417,2024-03-21T09:09:33.044813Z,"[LineUsersFirestore:get_user] {'total': 165, 'r': 128, 'w': 37, 'd': 0}"
+418,2024-03-21T09:09:33.044810Z,"[CoursesFirestore:get_course] {'total': 135, 'r': 135, 'w': 0, 'd': 0}"
+419,2024-03-21T09:09:33.044806Z,"[LineUsersFirestore:increase] {'total': 164, 'r': 127, 'w': 37, 'd': 0}"
+420,2024-03-21T09:09:33.044802Z,"[CoursesFirestore:get_course] {'total': 134, 'r': 134, 'w': 0, 'd': 0}"
+421,2024-03-21T09:09:33.044798Z,"[CoursesFirestore:get_course] {'total': 133, 'r': 133, 'w': 0, 'd': 0}"
+422,2024-03-21T09:09:33.044794Z,"[LineUsersFirestore:get_user] {'total': 161, 'r': 125, 'w': 36, 'd': 0}"
+423,2024-03-21T09:09:33.044790Z,"[CoursesFirestore:get_course] {'total': 132, 'r': 132, 'w': 0, 'd': 0}"
+424,2024-03-21T09:09:33.044787Z,"[LineUsersFirestore:get_user] {'total': 160, 'r': 124, 'w': 36, 'd': 0}"
+425,2024-03-21T09:09:33.044783Z,"[CoursesFirestore:get_course] {'total': 131, 'r': 131, 'w': 0, 'd': 0}"
+426,2024-03-21T09:09:33.044779Z,"[LineUsersFirestore:increase] {'total': 159, 'r': 123, 'w': 36, 'd': 0}"
+427,2024-03-21T09:09:33.044774Z,"[CoursesFirestore:get_course] {'total': 130, 'r': 130, 'w': 0, 'd': 0}"
+428,2024-03-21T09:09:33.044769Z,"[CoursesFirestore:get_course] {'total': 129, 'r': 129, 'w': 0, 'd': 0}"
+429,2024-03-21T09:09:33.044763Z,"[LineUsersFirestore:get_user] {'total': 156, 'r': 121, 'w': 35, 'd': 0}"
+430,2024-03-21T09:09:33.044758Z,"[CoursesFirestore:get_course] {'total': 128, 'r': 128, 'w': 0, 'd': 0}"
+431,2024-03-21T09:09:33.044753Z,"[LineUsersFirestore:increase] {'total': 155, 'r': 120, 'w': 35, 'd': 0}"
+432,2024-03-21T09:09:33.044750Z,"[CoursesFirestore:get_course] {'total': 127, 'r': 127, 'w': 0, 'd': 0}"
+433,2024-03-21T09:09:33.044746Z,"[CoursesFirestore:get_course] {'total': 126, 'r': 126, 'w': 0, 'd': 0}"
+434,2024-03-21T09:09:33.044742Z,"[LineUsersFirestore:get_user] {'total': 152, 'r': 118, 'w': 34, 'd': 0}"
+435,2024-03-21T09:09:33.044738Z,"[CoursesFirestore:get_course] {'total': 125, 'r': 125, 'w': 0, 'd': 0}"
+436,2024-03-21T09:09:33.044735Z,"[LineUsersFirestore:get_user] {'total': 151, 'r': 117, 'w': 34, 'd': 0}"
+437,2024-03-21T09:09:33.044731Z,"[CoursesFirestore:get_course] {'total': 124, 'r': 124, 'w': 0, 'd': 0}"
+438,2024-03-21T09:09:33.044728Z,"[LineUsersFirestore:increase] {'total': 150, 'r': 116, 'w': 34, 'd': 0}"
+439,2024-03-21T09:09:33.044724Z,"[CoursesFirestore:get_course] {'total': 123, 'r': 123, 'w': 0, 'd': 0}"
+440,2024-03-21T09:09:33.044720Z,"[CoursesFirestore:get_course] {'total': 122, 'r': 122, 'w': 0, 'd': 0}"
+441,2024-03-21T09:09:33.044716Z,"[LineUsersFirestore:get_user] {'total': 147, 'r': 114, 'w': 33, 'd': 0}"
+442,2024-03-21T09:09:33.044713Z,"[CoursesFirestore:get_course] {'total': 121, 'r': 121, 'w': 0, 'd': 0}"
+443,2024-03-21T09:09:33.044709Z,"[LineUsersFirestore:increase] {'total': 146, 'r': 113, 'w': 33, 'd': 0}"
+444,2024-03-21T09:09:33.044705Z,"[CoursesFirestore:get_course] {'total': 120, 'r': 120, 'w': 0, 'd': 0}"
+445,2024-03-21T09:09:33.044701Z,"[CoursesFirestore:get_course] {'total': 119, 'r': 119, 'w': 0, 'd': 0}"
+446,2024-03-21T09:09:33.044697Z,"[LineUsersFirestore:get_user] {'total': 143, 'r': 111, 'w': 32, 'd': 0}"
+447,2024-03-21T09:09:33.044693Z,"[CoursesFirestore:get_course] {'total': 118, 'r': 118, 'w': 0, 'd': 0}"
+448,2024-03-21T09:09:33.044689Z,"[LineUsersFirestore:increase] {'total': 142, 'r': 110, 'w': 32, 'd': 0}"
+449,2024-03-21T09:09:33.044686Z,"[CoursesFirestore:get_course] {'total': 117, 'r': 117, 'w': 0, 'd': 0}"
+450,2024-03-21T09:09:33.044682Z,"[CoursesFirestore:get_course] {'total': 116, 'r': 116, 'w': 0, 'd': 0}"
+451,2024-03-21T09:09:33.044678Z,"[LineUsersFirestore:get_user] {'total': 139, 'r': 108, 'w': 31, 'd': 0}"
+452,2024-03-21T09:09:33.044675Z,"[CoursesFirestore:get_course] {'total': 115, 'r': 115, 'w': 0, 'd': 0}"
+453,2024-03-21T09:09:33.044671Z,"[LineUsersFirestore:get_user] {'total': 138, 'r': 107, 'w': 31, 'd': 0}"
+454,2024-03-21T09:09:33.044668Z,"[CoursesFirestore:get_course] {'total': 114, 'r': 114, 'w': 0, 'd': 0}"
+455,2024-03-21T09:09:33.044663Z,"[LineUsersFirestore:increase] {'total': 137, 'r': 106, 'w': 31, 'd': 0}"
+456,2024-03-21T09:09:33.044659Z,"[CoursesFirestore:get_course] {'total': 113, 'r': 113, 'w': 0, 'd': 0}"
+457,2024-03-21T09:09:33.044656Z,"[CoursesFirestore:get_course] {'total': 112, 'r': 112, 'w': 0, 'd': 0}"
+458,2024-03-21T09:09:33.044652Z,"[LineUsersFirestore:get_user] {'total': 134, 'r': 104, 'w': 30, 'd': 0}"
+459,2024-03-21T09:09:33.044648Z,"[CoursesFirestore:get_course] {'total': 111, 'r': 111, 'w': 0, 'd': 0}"
+460,2024-03-21T09:09:33.044645Z,"[LineUsersFirestore:get_user] {'total': 133, 'r': 103, 'w': 30, 'd': 0}"
+461,2024-03-21T09:09:33.044641Z,"[CoursesFirestore:get_course] {'total': 110, 'r': 110, 'w': 0, 'd': 0}"
+462,2024-03-21T09:09:33.044637Z,"[LineUsersFirestore:increase] {'total': 132, 'r': 102, 'w': 30, 'd': 0}"
+463,2024-03-21T09:09:33.044634Z,"[CoursesFirestore:get_course] {'total': 109, 'r': 109, 'w': 0, 'd': 0}"
+464,2024-03-21T09:09:33.044630Z,"[CoursesFirestore:get_course] {'total': 108, 'r': 108, 'w': 0, 'd': 0}"
+465,2024-03-21T09:09:33.044626Z,"[LineUsersFirestore:get_user] {'total': 129, 'r': 100, 'w': 29, 'd': 0}"
+466,2024-03-21T09:09:33.044622Z,"[CoursesFirestore:get_course] {'total': 107, 'r': 107, 'w': 0, 'd': 0}"
+467,2024-03-21T09:09:33.044618Z,"[LineUsersFirestore:increase] {'total': 128, 'r': 99, 'w': 29, 'd': 0}"
+468,2024-03-21T09:09:33.044614Z,"[CoursesFirestore:get_course] {'total': 106, 'r': 106, 'w': 0, 'd': 0}"
+469,2024-03-21T09:09:33.044611Z,"[CoursesFirestore:get_course] {'total': 105, 'r': 105, 'w': 0, 'd': 0}"
+470,2024-03-21T09:09:33.044607Z,"[LineUsersFirestore:get_user] {'total': 125, 'r': 97, 'w': 28, 'd': 0}"
+471,2024-03-21T09:09:33.044604Z,"[CoursesFirestore:get_course] {'total': 104, 'r': 104, 'w': 0, 'd': 0}"
+472,2024-03-21T09:09:33.044600Z,"[LineUsersFirestore:increase] {'total': 124, 'r': 96, 'w': 28, 'd': 0}"
+473,2024-03-21T09:09:33.044597Z,"[CoursesFirestore:get_course] {'total': 103, 'r': 103, 'w': 0, 'd': 0}"
+474,2024-03-21T09:09:33.044593Z,"[CoursesFirestore:get_course] {'total': 102, 'r': 102, 'w': 0, 'd': 0}"
+475,2024-03-21T09:09:33.044589Z,"[CoursesFirestore:get_course] {'total': 101, 'r': 101, 'w': 0, 'd': 0}"
+476,2024-03-21T09:09:33.044585Z,"[LineUsersFirestore:get_user] {'total': 121, 'r': 94, 'w': 27, 'd': 0}"
+477,2024-03-21T09:09:33.044582Z,"[LineUsersFirestore:get_user] {'total': 120, 'r': 93, 'w': 27, 'd': 0}"
+478,2024-03-21T09:09:33.044577Z,"[CoursesFirestore:get_course] {'total': 100, 'r': 100, 'w': 0, 'd': 0}"
+479,2024-03-21T09:09:33.044573Z,"[LineUsersFirestore:increase] {'total': 119, 'r': 92, 'w': 27, 'd': 0}"
+480,2024-03-21T09:09:33.044568Z,"[CoursesFirestore:get_course] {'total': 99, 'r': 99, 'w': 0, 'd': 0}"
+481,2024-03-21T09:09:33.044564Z,"[CoursesFirestore:get_course] {'total': 98, 'r': 98, 'w': 0, 'd': 0}"
+482,2024-03-21T09:09:33.044561Z,"[LineUsersFirestore:get_user] {'total': 116, 'r': 90, 'w': 26, 'd': 0}"
+483,2024-03-21T09:09:33.044557Z,"[CoursesFirestore:get_course] {'total': 97, 'r': 97, 'w': 0, 'd': 0}"
+484,2024-03-21T09:09:33.044553Z,"[LineUsersFirestore:increase] {'total': 115, 'r': 89, 'w': 26, 'd': 0}"
+485,2024-03-21T09:09:33.044549Z,"[CoursesFirestore:get_course] {'total': 96, 'r': 96, 'w': 0, 'd': 0}"
+486,2024-03-21T09:09:33.044545Z,"[CoursesFirestore:get_course] {'total': 95, 'r': 95, 'w': 0, 'd': 0}"
+487,2024-03-21T09:09:33.044541Z,"[LineUsersFirestore:get_user] {'total': 112, 'r': 87, 'w': 25, 'd': 0}"
+488,2024-03-21T09:09:33.044537Z,"[CoursesFirestore:get_course] {'total': 94, 'r': 94, 'w': 0, 'd': 0}"
+489,2024-03-21T09:09:33.044533Z,"[LineUsersFirestore:get_user] {'total': 111, 'r': 86, 'w': 25, 'd': 0}"
+490,2024-03-21T09:09:33.044530Z,"[CoursesFirestore:get_course] {'total': 93, 'r': 93, 'w': 0, 'd': 0}"
+491,2024-03-21T09:09:33.044526Z,"[LineUsersFirestore:increase] {'total': 110, 'r': 85, 'w': 25, 'd': 0}"
+492,2024-03-21T09:09:33.044522Z,"[CoursesFirestore:get_course] {'total': 92, 'r': 92, 'w': 0, 'd': 0}"
+493,2024-03-21T09:09:33.044518Z,"[CoursesFirestore:get_course] {'total': 91, 'r': 91, 'w': 0, 'd': 0}"
+494,2024-03-21T09:09:33.044515Z,"[LineUsersFirestore:get_user] {'total': 107, 'r': 83, 'w': 24, 'd': 0}"
+495,2024-03-21T09:09:33.044510Z,"[CoursesFirestore:get_course] {'total': 90, 'r': 90, 'w': 0, 'd': 0}"
+496,2024-03-21T09:09:33.044505Z,"[LineUsersFirestore:increase] {'total': 106, 'r': 82, 'w': 24, 'd': 0}"
+497,2024-03-21T09:09:33.044500Z,"[CoursesFirestore:get_course] {'total': 89, 'r': 89, 'w': 0, 'd': 0}"
+498,2024-03-21T09:09:33.044495Z,"[CoursesFirestore:get_course] {'total': 88, 'r': 88, 'w': 0, 'd': 0}"
+499,2024-03-21T09:09:33.044491Z,"[LineUsersFirestore:get_user] {'total': 103, 'r': 80, 'w': 23, 'd': 0}"
+500,2024-03-21T09:09:33.044486Z,"[CoursesFirestore:get_course] {'total': 87, 'r': 87, 'w': 0, 'd': 0}"
+501,2024-03-21T09:09:33.044481Z,"[LineUsersFirestore:increase] {'total': 102, 'r': 79, 'w': 23, 'd': 0}"
+502,2024-03-21T09:09:33.044476Z,"[CoursesFirestore:get_course] {'total': 86, 'r': 86, 'w': 0, 'd': 0}"
+503,2024-03-21T09:09:33.044471Z,"[CoursesFirestore:get_course] {'total': 85, 'r': 85, 'w': 0, 'd': 0}"
+504,2024-03-21T09:09:33.044466Z,"[LineUsersFirestore:get_user] {'total': 99, 'r': 77, 'w': 22, 'd': 0}"
+505,2024-03-21T09:09:33.044461Z,"[CoursesFirestore:get_course] {'total': 84, 'r': 84, 'w': 0, 'd': 0}"
+506,2024-03-21T09:09:33.044452Z,"[LineUsersFirestore:get_user] {'total': 98, 'r': 76, 'w': 22, 'd': 0}"
+507,2024-03-21T09:09:33.044448Z,"[CoursesFirestore:get_course] {'total': 83, 'r': 83, 'w': 0, 'd': 0}"
+508,2024-03-21T09:09:33.044442Z,"[LineUsersFirestore:increase] {'total': 97, 'r': 75, 'w': 22, 'd': 0}"
+509,2024-03-21T09:09:33.044437Z,"[CoursesFirestore:get_course] {'total': 82, 'r': 82, 'w': 0, 'd': 0}"
+510,2024-03-21T09:09:33.044431Z,"[CoursesFirestore:get_course] {'total': 81, 'r': 81, 'w': 0, 'd': 0}"
+511,2024-03-21T09:09:33.044425Z,"[LineUsersFirestore:get_user] {'total': 94, 'r': 73, 'w': 21, 'd': 0}"
+512,2024-03-21T09:09:33.044419Z,"[CoursesFirestore:get_course] {'total': 80, 'r': 80, 'w': 0, 'd': 0}"
+513,2024-03-21T09:09:33.044413Z,"[LineUsersFirestore:increase] {'total': 93, 'r': 72, 'w': 21, 'd': 0}"
+514,2024-03-21T09:09:33.044406Z,"[CoursesFirestore:get_course] {'total': 79, 'r': 79, 'w': 0, 'd': 0}"
+515,2024-03-21T09:09:33.044382Z,"[CoursesFirestore:get_course] {'total': 78, 'r': 78, 'w': 0, 'd': 0}"
+516,2024-03-21T09:09:33.016238Z,
+517,2024-03-21T09:09:25.492033Z,
+518,2024-03-21T09:09:22.208092Z,
+519,2024-03-21T09:09:12.222983Z,
+520,2024-03-21T09:09:11.853578Z,
+521,2024-03-21T09:09:10.889951Z,
+522,2024-03-21T09:09:03.661669Z,
+523,2024-03-21T09:09:02.262845Z,
+524,2024-03-21T09:08:55.198201Z,
+525,2024-03-21T09:08:52.221224Z,
+526,2024-03-21T09:08:48.531430Z,
+527,2024-03-21T09:08:42.231478Z,
+528,2024-03-21T09:08:40.136434Z,
+529,2024-03-21T09:08:38.108969Z,
+530,2024-03-21T09:08:38.030804Z,
+531,2024-03-21T09:08:35.473492Z,
+532,2024-03-21T09:08:32.710964Z,
+533,2024-03-21T09:08:23.777749Z,
+534,2024-03-21T09:08:22.442178Z,
+535,2024-03-21T09:08:17.813231Z,
+536,2024-03-21T09:08:12.013123Z,"[LineUsersFirestore:get_user] {'total': 90, 'r': 70, 'w': 20, 'd': 0}"
+537,2024-03-21T09:08:12.013118Z,"[CoursesFirestore:get_course] {'total': 77, 'r': 77, 'w': 0, 'd': 0}"
+538,2024-03-21T09:08:12.013112Z,"[LineUsersFirestore:increase] {'total': 89, 'r': 69, 'w': 20, 'd': 0}"
+539,2024-03-21T09:08:12.013106Z,"[CoursesFirestore:get_course] {'total': 76, 'r': 76, 'w': 0, 'd': 0}"
+540,2024-03-21T09:08:12.013101Z,"[CoursesFirestore:get_course] {'total': 75, 'r': 75, 'w': 0, 'd': 0}"
+541,2024-03-21T09:08:12.013095Z,"[LineUsersFirestore:get_user] {'total': 86, 'r': 67, 'w': 19, 'd': 0}"
+542,2024-03-21T09:08:12.013089Z,"[CoursesFirestore:get_course] {'total': 74, 'r': 74, 'w': 0, 'd': 0}"
+543,2024-03-21T09:08:12.013084Z,"[LineUsersFirestore:get_user] {'total': 85, 'r': 66, 'w': 19, 'd': 0}"
+544,2024-03-21T09:08:12.013079Z,"[CoursesFirestore:get_course] {'total': 73, 'r': 73, 'w': 0, 'd': 0}"
+545,2024-03-21T09:08:12.013035Z,"[LineUsersFirestore:increase] {'total': 84, 'r': 65, 'w': 19, 'd': 0}"
+546,2024-03-21T09:08:12.013030Z,"[CoursesFirestore:get_course] {'total': 72, 'r': 72, 'w': 0, 'd': 0}"
+547,2024-03-21T09:08:12.013006Z,"[CoursesFirestore:get_course] {'total': 71, 'r': 71, 'w': 0, 'd': 0}"
+548,2024-03-21T09:08:12.013Z,"[LineUsersFirestore:get_user] {'total': 81, 'r': 63, 'w': 18, 'd': 0}"
+549,2024-03-21T09:08:12.012995Z,"[CoursesFirestore:get_course] {'total': 70, 'r': 70, 'w': 0, 'd': 0}"
+550,2024-03-21T09:08:12.012989Z,"[LineUsersFirestore:increase] {'total': 80, 'r': 62, 'w': 18, 'd': 0}"
+551,2024-03-21T09:08:12.012984Z,"[CoursesFirestore:get_course] {'total': 69, 'r': 69, 'w': 0, 'd': 0}"
+552,2024-03-21T09:08:12.012980Z,"[CoursesFirestore:get_course] {'total': 68, 'r': 68, 'w': 0, 'd': 0}"
+553,2024-03-21T09:08:12.012970Z,"[LineUsersFirestore:get_user] {'total': 77, 'r': 60, 'w': 17, 'd': 0}"
+554,2024-03-21T09:08:12.012965Z,"[CoursesFirestore:get_course] {'total': 67, 'r': 67, 'w': 0, 'd': 0}"
+555,2024-03-21T09:08:12.012959Z,"[LineUsersFirestore:get_user] {'total': 76, 'r': 59, 'w': 17, 'd': 0}"
+556,2024-03-21T09:08:12.012955Z,"[CoursesFirestore:get_course] {'total': 66, 'r': 66, 'w': 0, 'd': 0}"
+557,2024-03-21T09:08:12.012949Z,"[LineUsersFirestore:increase] {'total': 75, 'r': 58, 'w': 17, 'd': 0}"
+558,2024-03-21T09:08:12.012944Z,"[CoursesFirestore:get_course] {'total': 65, 'r': 65, 'w': 0, 'd': 0}"
+559,2024-03-21T09:08:12.012940Z,"[CoursesFirestore:get_course] {'total': 64, 'r': 64, 'w': 0, 'd': 0}"
+560,2024-03-21T09:08:12.012935Z,"[LineUsersFirestore:get_user] {'total': 72, 'r': 56, 'w': 16, 'd': 0}"
+561,2024-03-21T09:08:12.012931Z,"[CoursesFirestore:get_course] {'total': 63, 'r': 63, 'w': 0, 'd': 0}"
+562,2024-03-21T09:08:12.012925Z,"[LineUsersFirestore:increase] {'total': 71, 'r': 55, 'w': 16, 'd': 0}"
+563,2024-03-21T09:08:12.012920Z,"[CoursesFirestore:get_course] {'total': 62, 'r': 62, 'w': 0, 'd': 0}"
+564,2024-03-21T09:08:12.012917Z,"[CoursesFirestore:get_course] {'total': 61, 'r': 61, 'w': 0, 'd': 0}"
+565,2024-03-21T09:08:12.012912Z,"[LineUsersFirestore:get_user] {'total': 68, 'r': 53, 'w': 15, 'd': 0}"
+566,2024-03-21T09:08:12.012884Z,"[CoursesFirestore:get_course] {'total': 60, 'r': 60, 'w': 0, 'd': 0}"
+567,2024-03-21T09:08:12.012879Z,"[LineUsersFirestore:get_user] {'total': 67, 'r': 52, 'w': 15, 'd': 0}"
+568,2024-03-21T09:08:12.012875Z,"[CoursesFirestore:get_course] {'total': 59, 'r': 59, 'w': 0, 'd': 0}"
+569,2024-03-21T09:08:12.012870Z,"[LineUsersFirestore:increase] {'total': 66, 'r': 51, 'w': 15, 'd': 0}"
+570,2024-03-21T09:08:12.012865Z,"[CoursesFirestore:get_course] {'total': 58, 'r': 58, 'w': 0, 'd': 0}"
+571,2024-03-21T09:08:12.012860Z,"[CoursesFirestore:get_course] {'total': 57, 'r': 57, 'w': 0, 'd': 0}"
+572,2024-03-21T09:08:12.012855Z,"[LineUsersFirestore:get_user] {'total': 63, 'r': 49, 'w': 14, 'd': 0}"
+573,2024-03-21T09:08:12.012851Z,"[CoursesFirestore:get_course] {'total': 56, 'r': 56, 'w': 0, 'd': 0}"
+574,2024-03-21T09:08:12.012846Z,"[LineUsersFirestore:get_user] {'total': 62, 'r': 48, 'w': 14, 'd': 0}"
+575,2024-03-21T09:08:12.012841Z,"[CoursesFirestore:get_course] {'total': 55, 'r': 55, 'w': 0, 'd': 0}"
+576,2024-03-21T09:08:12.012837Z,"[LineUsersFirestore:increase] {'total': 61, 'r': 47, 'w': 14, 'd': 0}"
+577,2024-03-21T09:08:12.012831Z,"[CoursesFirestore:get_course] {'total': 54, 'r': 54, 'w': 0, 'd': 0}"
+578,2024-03-21T09:08:12.012827Z,"[CoursesFirestore:get_course] {'total': 53, 'r': 53, 'w': 0, 'd': 0}"
+579,2024-03-21T09:08:12.012822Z,"[LineUsersFirestore:get_user] {'total': 58, 'r': 45, 'w': 13, 'd': 0}"
+580,2024-03-21T09:08:12.012817Z,"[CoursesFirestore:get_course] {'total': 52, 'r': 52, 'w': 0, 'd': 0}"
+581,2024-03-21T09:08:12.012812Z,"[LineUsersFirestore:increase] {'total': 57, 'r': 44, 'w': 13, 'd': 0}"
+582,2024-03-21T09:08:12.012807Z,"[CoursesFirestore:get_course] {'total': 51, 'r': 51, 'w': 0, 'd': 0}"
+583,2024-03-21T09:08:12.012802Z,"[CoursesFirestore:get_course] {'total': 50, 'r': 50, 'w': 0, 'd': 0}"
+584,2024-03-21T09:08:12.012797Z,"[LineUsersFirestore:get_user] {'total': 54, 'r': 42, 'w': 12, 'd': 0}"
+585,2024-03-21T09:08:12.012791Z,"[CoursesFirestore:get_course] {'total': 49, 'r': 49, 'w': 0, 'd': 0}"
+586,2024-03-21T09:08:12.012786Z,"[LineUsersFirestore:increase] {'total': 53, 'r': 41, 'w': 12, 'd': 0}"
+587,2024-03-21T09:08:12.012781Z,"[CoursesFirestore:get_course] {'total': 48, 'r': 48, 'w': 0, 'd': 0}"
+588,2024-03-21T09:08:12.012776Z,"[CoursesFirestore:get_course] {'total': 47, 'r': 47, 'w': 0, 'd': 0}"
+589,2024-03-21T09:08:12.012772Z,"[LineUsersFirestore:get_user] {'total': 50, 'r': 39, 'w': 11, 'd': 0}"
+590,2024-03-21T09:08:12.012766Z,"[CoursesFirestore:get_course] {'total': 46, 'r': 46, 'w': 0, 'd': 0}"
+591,2024-03-21T09:08:12.012761Z,"[LineUsersFirestore:increase] {'total': 49, 'r': 38, 'w': 11, 'd': 0}"
+592,2024-03-21T09:08:12.012756Z,"[CoursesFirestore:get_course] {'total': 45, 'r': 45, 'w': 0, 'd': 0}"
+593,2024-03-21T09:08:12.012751Z,"[LineUsersFirestore:get_user] {'total': 46, 'r': 36, 'w': 10, 'd': 0}"
+594,2024-03-21T09:08:12.012745Z,"[CoursesFirestore:get_course] {'total': 44, 'r': 44, 'w': 0, 'd': 0}"
+595,2024-03-21T09:08:12.012741Z,"[LineUsersFirestore:increase] {'total': 45, 'r': 35, 'w': 10, 'd': 0}"
+596,2024-03-21T09:08:12.012735Z,"[CoursesFirestore:get_course] {'total': 43, 'r': 43, 'w': 0, 'd': 0}"
+597,2024-03-21T09:08:12.012730Z,"[CoursesFirestore:get_course] {'total': 42, 'r': 42, 'w': 0, 'd': 0}"
+598,2024-03-21T09:08:12.012725Z,"[LineUsersFirestore:get_user] {'total': 42, 'r': 33, 'w': 9, 'd': 0}"
+599,2024-03-21T09:08:12.012720Z,"[CoursesFirestore:get_course] {'total': 41, 'r': 41, 'w': 0, 'd': 0}"
+600,2024-03-21T09:08:12.012715Z,"[LineUsersFirestore:get_user] {'total': 41, 'r': 32, 'w': 9, 'd': 0}"
+601,2024-03-21T09:08:12.012711Z,"[CoursesFirestore:get_course] {'total': 40, 'r': 40, 'w': 0, 'd': 0}"
+602,2024-03-21T09:08:12.012706Z,"[LineUsersFirestore:increase] {'total': 40, 'r': 31, 'w': 9, 'd': 0}"
+603,2024-03-21T09:08:12.012702Z,"[CoursesFirestore:get_course] {'total': 39, 'r': 39, 'w': 0, 'd': 0}"
+604,2024-03-21T09:08:12.012696Z,"[CoursesFirestore:get_course] {'total': 38, 'r': 38, 'w': 0, 'd': 0}"
+605,2024-03-21T09:08:12.012691Z,"[LineUsersFirestore:get_user] {'total': 37, 'r': 29, 'w': 8, 'd': 0}"
+606,2024-03-21T09:08:12.012687Z,"[CoursesFirestore:get_course] {'total': 37, 'r': 37, 'w': 0, 'd': 0}"
+607,2024-03-21T09:08:12.012678Z,"[LineUsersFirestore:increase] {'total': 36, 'r': 28, 'w': 8, 'd': 0}"
+608,2024-03-21T09:08:12.012673Z,"[CoursesFirestore:get_course] {'total': 36, 'r': 36, 'w': 0, 'd': 0}"
+609,2024-03-21T09:08:12.012668Z,"[CoursesFirestore:get_course] {'total': 35, 'r': 35, 'w': 0, 'd': 0}"
+610,2024-03-21T09:08:12.012663Z,"[LineUsersFirestore:get_user] {'total': 33, 'r': 26, 'w': 7, 'd': 0}"
+611,2024-03-21T09:08:12.012658Z,"[CoursesFirestore:get_course] {'total': 34, 'r': 34, 'w': 0, 'd': 0}"
+612,2024-03-21T09:08:12.012653Z,"[LineUsersFirestore:increase] {'total': 32, 'r': 25, 'w': 7, 'd': 0}"
+613,2024-03-21T09:08:12.012648Z,"[CoursesFirestore:get_course] {'total': 33, 'r': 33, 'w': 0, 'd': 0}"
+614,2024-03-21T09:08:12.012643Z,"[CoursesFirestore:get_course] {'total': 32, 'r': 32, 'w': 0, 'd': 0}"
+615,2024-03-21T09:08:12.012638Z,"[LineUsersFirestore:get_user] {'total': 29, 'r': 23, 'w': 6, 'd': 0}"
+616,2024-03-21T09:08:12.012633Z,"[CoursesFirestore:get_course] {'total': 31, 'r': 31, 'w': 0, 'd': 0}"
+617,2024-03-21T09:08:12.012628Z,"[LineUsersFirestore:get_user] {'total': 28, 'r': 22, 'w': 6, 'd': 0}"
+618,2024-03-21T09:08:12.012624Z,"[CoursesFirestore:get_course] {'total': 30, 'r': 30, 'w': 0, 'd': 0}"
+619,2024-03-21T09:08:12.012619Z,"[LineUsersFirestore:increase] {'total': 27, 'r': 21, 'w': 6, 'd': 0}"
+620,2024-03-21T09:08:12.012614Z,"[CoursesFirestore:get_course] {'total': 29, 'r': 29, 'w': 0, 'd': 0}"
+621,2024-03-21T09:08:12.012609Z,"[CoursesFirestore:get_course] {'total': 28, 'r': 28, 'w': 0, 'd': 0}"
+622,2024-03-21T09:08:12.012602Z,"[LineUsersFirestore:get_user] {'total': 24, 'r': 19, 'w': 5, 'd': 0}"
+623,2024-03-21T09:08:12.012597Z,"[CoursesFirestore:get_course] {'total': 27, 'r': 27, 'w': 0, 'd': 0}"
+624,2024-03-21T09:08:12.012592Z,"[LineUsersFirestore:increase] {'total': 23, 'r': 18, 'w': 5, 'd': 0}"
+625,2024-03-21T09:08:12.012588Z,"[CoursesFirestore:get_course] {'total': 26, 'r': 26, 'w': 0, 'd': 0}"
+626,2024-03-21T09:08:12.012582Z,"[CoursesFirestore:get_course] {'total': 25, 'r': 25, 'w': 0, 'd': 0}"
+627,2024-03-21T09:08:12.012578Z,"[LineUsersFirestore:get_user] {'total': 20, 'r': 16, 'w': 4, 'd': 0}"
+628,2024-03-21T09:08:12.012573Z,"[CoursesFirestore:get_course] {'total': 24, 'r': 24, 'w': 0, 'd': 0}"
+629,2024-03-21T09:08:12.012568Z,"[LineUsersFirestore:increase] {'total': 19, 'r': 15, 'w': 4, 'd': 0}"
+630,2024-03-21T09:08:12.012563Z,"[CoursesFirestore:get_course] {'total': 23, 'r': 23, 'w': 0, 'd': 0}"
+631,2024-03-21T09:08:12.012558Z,"[LineUsersFirestore:get_user] {'total': 16, 'r': 13, 'w': 3, 'd': 0}"
+632,2024-03-21T09:08:12.012553Z,"[CoursesFirestore:get_course] {'total': 22, 'r': 22, 'w': 0, 'd': 0}"
+633,2024-03-21T09:08:12.012548Z,"[LineUsersFirestore:get_user] {'total': 15, 'r': 12, 'w': 3, 'd': 0}"
+634,2024-03-21T09:08:12.012544Z,"[CoursesFirestore:get_course] {'total': 21, 'r': 21, 'w': 0, 'd': 0}"
+635,2024-03-21T09:08:12.012539Z,"[LineUsersFirestore:increase] {'total': 14, 'r': 11, 'w': 3, 'd': 0}"
+636,2024-03-21T09:08:12.012534Z,"[CoursesFirestore:get_course] {'total': 20, 'r': 20, 'w': 0, 'd': 0}"
+637,2024-03-21T09:08:12.012528Z,"[CoursesFirestore:get_course] {'total': 19, 'r': 19, 'w': 0, 'd': 0}"
+638,2024-03-21T09:08:12.012523Z,"[LineUsersFirestore:get_user] {'total': 11, 'r': 9, 'w': 2, 'd': 0}"
+639,2024-03-21T09:08:12.012518Z,"[CoursesFirestore:get_course] {'total': 18, 'r': 18, 'w': 0, 'd': 0}"
+640,2024-03-21T09:08:12.012513Z,"[LineUsersFirestore:get_user] {'total': 10, 'r': 8, 'w': 2, 'd': 0}"
+641,2024-03-21T09:08:12.012507Z,"[CoursesFirestore:get_course] {'total': 17, 'r': 17, 'w': 0, 'd': 0}"
+642,2024-03-21T09:08:12.012502Z,"[LineUsersFirestore:increase] {'total': 9, 'r': 7, 'w': 2, 'd': 0}"
+643,2024-03-21T09:08:12.012498Z,"[CoursesFirestore:get_course] {'total': 16, 'r': 16, 'w': 0, 'd': 0}"
+644,2024-03-21T09:08:12.012493Z,"[CoursesFirestore:get_course] {'total': 15, 'r': 15, 'w': 0, 'd': 0}"
+645,2024-03-21T09:08:12.012487Z,"[LineUsersFirestore:get_user] {'total': 6, 'r': 5, 'w': 1, 'd': 0}"
+646,2024-03-21T09:08:12.012482Z,"[CoursesFirestore:get_course] {'total': 14, 'r': 14, 'w': 0, 'd': 0}"
+647,2024-03-21T09:08:12.012477Z,"[LineUsersFirestore:get_user] {'total': 5, 'r': 4, 'w': 1, 'd': 0}"
+648,2024-03-21T09:08:12.012472Z,"[CoursesFirestore:get_course] {'total': 13, 'r': 13, 'w': 0, 'd': 0}"
+649,2024-03-21T09:08:12.012467Z,"[LineUsersFirestore:increase] {'total': 4, 'r': 3, 'w': 1, 'd': 0}"
+650,2024-03-21T09:08:12.012461Z,"[CoursesFirestore:get_course] {'total': 12, 'r': 12, 'w': 0, 'd': 0}"
+651,2024-03-21T09:08:12.012456Z,"[CoursesFirestore:get_course] {'total': 11, 'r': 11, 'w': 0, 'd': 0}"
+652,2024-03-21T09:08:12.012449Z,"[LineUsersFirestore:get_user] {'total': 1, 'r': 1, 'w': 0, 'd': 0}"
+653,2024-03-21T09:08:12.012422Z,"[CoursesFirestore:__init__] {'total': 10, 'r': 10, 'w': 0, 'd': 0}"
+654,2024-03-21T09:08:11.979769Z,
+655,2024-03-21T09:08:07.827852Z,
+656,2024-03-21T09:08:06.802109Z,
+657,2024-03-21T09:08:04.612760Z,
+658,2024-03-21T09:08:02.929495Z,
+659,2024-03-21T09:08:00.798185Z,
+660,2024-03-21T09:07:55.280736Z,
+661,2024-03-21T09:07:53.706650Z,
+662,2024-03-21T09:07:53.456706Z,
+663,2024-03-21T09:07:52.585090Z,
+664,2024-03-21T09:07:52.083632Z,
+665,2024-03-21T09:07:50.796966Z,
+666,2024-03-21T09:07:47.740607Z,
+667,2024-03-21T09:07:44.654399Z,
+668,2024-03-21T09:07:42.621368Z,
+669,2024-03-21T09:07:39.362147Z,
+670,2024-03-21T09:07:37.262250Z,
+671,2024-03-21T09:07:32.254247Z,
+672,2024-03-21T09:07:29.891805Z,
+673,2024-03-21T09:07:29.188102Z,
+674,2024-03-21T09:07:23.952227Z,"Default STARTUP TCP probe succeeded after 1 attempt for container ""goodeploy-1"" on port 8080."
+675,2024-03-21T09:07:23.931818Z,[2024-03-21 17:07:23 +0800] [4] [INFO] Booting worker with pid: 4
+676,2024-03-21T09:07:23.912367Z,[2024-03-21 17:07:23 +0800] [2] [INFO] Using worker: gthread
+677,2024-03-21T09:07:23.912357Z,[2024-03-21 17:07:23 +0800] [2] [INFO] Listening at: http://0.0.0.0:8080 (2)
+678,2024-03-21T09:07:23.910949Z,[2024-03-21 17:07:23 +0800] [2] [INFO] Starting gunicorn 21.2.0
+679,2024-03-21T09:07:23.005927Z,
