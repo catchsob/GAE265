@@ -18,13 +18,26 @@ def recognize():
     
     image = file.stream.read()
 
+    user_id = None
+    if flask.request.form:
+        user_id = flask.request.form.get('user_id')
+    
+    model = 'gemini-3.5-flash-lite'
+    if flask.request.form:
+        model = flask.request.form.get('model', 'gemini-3.5-flash-lite')
+
     # 2. recognize
-    r = car.recognize_plate(image, service='service.json')
+    r = car.recognize_plate(image, model=model, service='service.json')
     print(r)
 
     # 3. return response
-    result = {"plate": r or "未辨識"}
+    result = {
+        "plate": r or "未辨識",
+        "model": model,
+        "user_id": user_id or "沒有id"
+    }
 
     return result
 
-app.run()
+if __name__ == '__main__':
+    app.run()
